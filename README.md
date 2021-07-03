@@ -1,2 +1,2 @@
 # Algorithm
-K3Y1 Alogorithm study
+K3Y1 Algorithm study
